@@ -14,5 +14,5 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone 
+   git clone https://github.com/Soudabeh-Noorollahi/Book-App.git
    cd Book-App
